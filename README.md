@@ -39,3 +39,7 @@ I’m not using `scenePhase` anywhere in the code yet—just declaring it seems 
 
 * Xcode version: 16.3
 * iOS version: 18.4
+
+**References**
+
+https://forums.swift.org/t/swiftui-view-stops-updating-when-using-environment-scenephase/79192
