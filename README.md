@@ -33,6 +33,8 @@ When the `@Environment(\.scenePhase)` property is commented out, everything work
 
 I’m not using `scenePhase` anywhere in the code yet—just declaring it seems to be enough to trigger the issue.
 
+![Screenshot](Screenshot.png)
+
 **Environment:**
 
 * Xcode version: 16.3
