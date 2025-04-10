@@ -1,5 +1,5 @@
-# SwiftUI-Updating-Bug
-SwiftUI-Updating-Bug
+# SwiftUI View Stops Updating When Using @Environment(.scenePhase)
+SwiftUI View Stops Updating When Using @Environment(.scenePhase)
 
 I'm experiencing a bug where my SwiftUI views stop updating when I enable `@Environment(\.scenePhase)` in the `@main` App struct.
 
